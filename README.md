@@ -1,2 +1,2 @@
-# pyhon-ile-tenserflow-at-l-samanc-o-lu-kurs
+# pyhon-ile-tenserflow-atil-samancioglu-kurs
 python ile tenserflow course atıl samancıoğlu BTK AKADEMİ
